@@ -1,7 +1,6 @@
 # Linting
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This application uses npm prepush package for pre-push hooks implementation and ember-suave as a linting framework.
 
 ## Prerequisites
 
