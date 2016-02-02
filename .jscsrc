@@ -1,5 +1,3 @@
 {
-  "preset": "ember-suave",
-
-  
+  "preset": "ember-suave"
 }
