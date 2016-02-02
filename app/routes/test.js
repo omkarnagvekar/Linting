@@ -9,10 +9,10 @@ export default Ember.Route.extend({
   // afterModel: function() {},
 
   model: function() {
-  	if(true) {
+  	if(true){
 
   	} 
-  	else {
+  	else{
   		console.log("else executed");
   	}
     return "Test route";
