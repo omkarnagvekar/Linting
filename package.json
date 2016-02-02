@@ -12,6 +12,9 @@
     "start": "ember server",
     "test": "ember test"
   },
+  "pre-push": [
+    "test"
+  ],
   "repository": "",
   "engines": {
     "node": ">= 0.10.0"
