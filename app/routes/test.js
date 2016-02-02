@@ -10,7 +10,7 @@ export default Ember.Route.extend({
 
   model() {
   	if (true) {
-
+      console.log("if executed successfully");
   	} else {
   		console.log("else executed");
   	}
