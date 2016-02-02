@@ -9,7 +9,6 @@ export default Ember.Route.extend({
   // afterModel: function() {},
 
   model: function() {
-    var message
   	if(true){
 
   	} 
