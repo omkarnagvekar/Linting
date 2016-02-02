@@ -8,7 +8,7 @@ export default Ember.Route.extend({
   // beforeModel: function() {},
   // afterModel: function() {},
 
-  model: function() {
+  model() {
   	if (true) {
 
   	} else {
